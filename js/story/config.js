@@ -76,6 +76,6 @@ export const timing = {
   field: { in: [10.0, 11.3], travel: [10.0, 16.3], out: [15.0, 16.4] },
   beats: [[0, 0.45], [2.0, 4.2], [6.9, 9.4], [11.6, 14.6], [16.7, 19.9], [22.8, 25.6], [28.6, null]],
   labels: [0, 3.2, 8.2, 13.2, 18.4, 24.3, 31.2],
-  chapters: ['Llegada', 'Jardín', 'La quinta', 'Recorre', 'Bodas', 'Celebraciones', 'Tu fecha']
+  chapters: ['Llegada', 'Jardín', 'La Quinta', 'Recorre', 'Bodas', 'Celebraciones', 'Tu fecha']
 };
 
