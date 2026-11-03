@@ -4,7 +4,7 @@ Repo del sitio oficial de la quinta (negocio del padre de Felipe Salvador, Soluc
 
 ## Reglas
 - No editar directamente aquí lo que sea experimento: primero se prueba en el laboratorio y Felipe aprueba.
-- Hoy el sitio tiene `noindex, nofollow` (no debe aparecer en buscadores). **Quitarlo solo cuando Felipe y su padre autoricen la publicación**, y hacerlo en los DOS `index.html`: el de la raíz y el de `quinta-la-macarena-web/`.
+- Publicado el 2026-11-03 en `https://quintalamacarena.com/` con autorización de Felipe y su padre: ya **sin** `noindex`, con `robots.txt` y `sitemap.xml`. Si se agrega una página, sumarla al `sitemap.xml`.
 - Mantener sincronizados esos dos `index.html` (la carpeta `quinta-la-macarena-web/` se conserva por decisión de Felipe).
 - No quitar imágenes (incluida `images/originales/`). No cambiar enlaces ni teléfonos de contacto sin que Felipe lo pida.
 - No inventar información del negocio. Lo no confirmado se marca `[PENDIENTE]`.
